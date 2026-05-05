@@ -1,16 +1,25 @@
-## Hi there 👋
+💫 About Me:
+Front-end developer with 3+ years building performant, visually polished web products for international clients. Specialize in React/Next.js ecosystems, headless CMS integrations, and motion-driven UI with GSAP. Delivered 30%+ performance gains on client projects and contributed to sites serving enterprise-scale audiences across healthcare, AI, and policy sectors.
 
-<!--
-**ganesh-tomar/ganesh-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+CSS3 GraphQL HTML5 JavaScript TypeScript Git Next JS Firebase Express.js Gulp jQuery Nodemon NodeJS NPM React TailwindCSS WordPress Firebase Supabase Prisma Canva GitHub Bitbucket Jira Postman Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
